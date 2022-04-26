@@ -8,13 +8,13 @@
   M A N D A N T E :{
    N O M E   ; B R A S I L ,
     F O R C A  , 5,
-    I M A G E M : T O D O
+    I M A G E M : http://www.bandeiranacionais.com/data/flags/normal/br.png
   
   }
     V I S I T A N T E {
      N O M E ; A R G E N T I N A ,
       F O R C A , 5,
-      I M A G E M , T O D O 
+      I M A G E M , http://www.bandeiranacionais.com/data/flags/normal/ar.png
     }
       
       
